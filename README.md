@@ -39,4 +39,17 @@ A classic Rock-Paper-Scissors game with a clean terminal interface. The player b
 - Concepts: random choice, comparison logic, input/output, functions
 
 ---
+### 5. **Number Guessing Game**
 
+A simple game where the computer randomly picks a number between 0 and the user-defined range. The player has to guess the number with hints provided after each guess.
+
+File: number_guessing_game.py
+
+---
+
+### 6. **Password Manager**
+A simple terminal-based password manager that lets you:
+
+File: password_manager.py
+
+Concepts: file handling, encryption, decryption, confirmation input
